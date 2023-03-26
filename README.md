@@ -21,10 +21,14 @@ Features
 
 06# Read the read protection state
 .
+
+
 07# jump to any flash sector to run user app if pass CRC32 check successfully or enter do_nothing if not).
 
 
+
 08# Get MCU ID.
+
 
 
 09# Get bootloader version.
